@@ -29,7 +29,7 @@ importar o módulo porcentagem.js
 let porcentagem = require('./porcentagem.js')
 console.log(porcentagem (100, 10))
 
-.5 - Chegou a hora 🎉 de executar nosso script huau!
+.5 - Chegou a hora 🎉 de executar nosso script!
 
 $ node app.js
 10
